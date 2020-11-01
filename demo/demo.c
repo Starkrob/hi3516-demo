@@ -4,3 +4,8 @@ int main()
 {
     printf("syds\r\n");
 }
+
+cheat()
+{
+    
+}
